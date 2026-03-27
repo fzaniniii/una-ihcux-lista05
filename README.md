@@ -67,5 +67,5 @@ Isso facilita a leitura e melhora a experiência do usuário.
 ## 📸 Evidência de Execução
 
 Print do sistema funcionando com o comando `dotnet run`.
-
+ 
 ![Execução do Conversor](./minha-evidência.png)
