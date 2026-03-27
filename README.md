@@ -63,9 +63,13 @@ O programa apresenta apenas as informações necessárias, de forma organizada e
 Isso facilita a leitura e melhora a experiência do usuário.
 
 ---
-Reflexão de Encerramento: > Após passar por essas 4 missões, como a sua visão sobre 'apenas escrever código' mudou ao considerar a experiência de quem vai usar o seu programa?
+## 🧠 Reflexão de Encerramento
 
-Minha visão evoluiu de simplesmente fazer o código funcionar para me preocupar com a experiência do usuário. Percebi que não basta executar corretamente, é essencial comunicar o que está acontecendo, evitar erros e tornar a interação clara e intuitiva. Um sistema bem feito não é só funcional, mas também compreensível e confiável para quem utiliza.
+> Após passar por essas 4 missões, como a sua visão sobre "apenas escrever código" mudou ao considerar a experiência de quem vai usar o seu programa?
+
+Minha visão evoluiu de simplesmente fazer o código funcionar para me preocupar com a experiência do usuário. Percebi que não basta executar corretamente, é essencial comunicar o que está acontecendo, evitar erros e tornar a interação clara e intuitiva.  
+
+Um sistema bem feito não é só funcional, mas também compreensível e confiável para quem utiliza.
 ---
 
 ## 📸 Evidência de Execução
