@@ -8,11 +8,14 @@ O objetivo da atividade foi aplicar conceitos de **Experiência do Usuário (UX)
 
 ## 🛠️ Comandos Utilizados
 
-- `dotnet new console`  
-  Cria a estrutura inicial do projeto.
+- `dotnet new console -n ConversorExpert`  
+  Cria a estrutura inicial do projeto com o nome "ConversorExpert".
 
-- `dotnet build`  
-  Compila o projeto.
+- `cd ConversorExpert`  
+  Acessa a pasta do projeto.
+
+- `code .`  
+  Abre a IDE.
 
 - `dotnet run`  
   Executa o programa no terminal.
